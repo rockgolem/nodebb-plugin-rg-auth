@@ -1,0 +1,24 @@
+{
+  "name": "nodebb-plugin-rg-auth",
+  "version": "0.0.1",
+  "description": "nodebb plugin for custom auth into rockgolem accounts.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rockgolem/nodebb-plugin-rg-auth"
+  },
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  },
+  "keywords": [
+    "nodebb",
+    "auth",
+    "rockgolem"
+  ],
+  "author": "cjsaylor <cjsaylor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
